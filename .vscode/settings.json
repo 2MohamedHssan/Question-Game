@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5587,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.css-language-features",
+    "editor.formatOnSaveMode": "modifications"
+}

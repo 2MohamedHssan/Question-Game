@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Why we use <br> Element",
+        "answer_1" : "to make text bold",
+        "answer_2" : "to make text italic",
+        "answer_3" : "to make brakeline",
+        "answer_4" : "to make horizontal Line",
+        "right_answer" : "to make brakeline"
+    },
+    {
+        "title": "Is <img> Element Has attribute href",
+        "answer_1" : "Yes",
+        "answer_2" : "No Its For Anther Tag <a>",
+        "answer_3" : "All Element Has This Attribute",
+        "answer_4" : "Answer 1 And 3 It Right",
+        "right_answer" : "No Its For Anther Tag <a>"
+    },
+    {
+        "title": "How we can make Element text bold",
+        "answer_1" : "Putting it inside <b> Tag",
+        "answer_2" : "Putting it inside <string> Tag",
+        "answer_3" : "Customizing It With Front-weight Proparty in css",
+        "answer_4" : "All answer is right",
+        "right_answer" : "All answer is right"
+    }
+,
+    {
+        "title": "How can We add css styling to html",
+        "answer_1" : "using <amg> Tag",
+        "answer_2" : "no need to add becouse it added by defoulte",
+        "answer_3" : "using <style> Tag to add internal styling",
+        "answer_4" : "All answer is right",
+        "right_answer" : "using <style> Tag to add internal styling"
+    }
+,
+    {
+        "title": "How can We add JavaScript file to html",
+        "answer_1" : "using <amg> Tag",
+        "answer_2" : "no need to add becouse it added by defoulte",
+        "answer_3" : "using <script> Tag ",
+        "answer_4" : "All answer is right",
+        "right_answer" : "using <script> Tag "
+    }
+,
+    {
+        "title": "What HTML Stans From",
+        "answer_1" : "Hyper Transform Markup Languge",
+        "answer_2" : "Hyper Text Markup Languge",
+        "answer_3" : "Hyper Text Modern Languge ",
+        "answer_4" : "All answer is right",
+        "right_answer" : "Hyper Text Markup Languge"
+    }
+,
+    {
+        "title": "witch Tage in HTML You Can Use it to wirte a Text",
+        "answer_1" : "<img> Tag",
+        "answer_2" : "<a> Tag",
+        "answer_3" : "<p> Tag",
+        "answer_4" : "<audio> Tag",
+        "right_answer" : "<p> Tag"
+    }
+,
+    {
+        "title": "witch Tage in HTML You Can Use it to append img",
+        "answer_1" : "<img> Tag",
+        "answer_2" : "<a> Tag",
+        "answer_3" : "<p> Tag",
+        "answer_4" : "<audio> Tag",
+        "right_answer" : "<img> Tag"
+    }
+,
+    {
+        "title": "witch Tage in HTML You Can Use it to link Url",
+        "answer_1" : "<img> Tag",
+        "answer_2" : "<a> Tag",
+        "answer_3" : "<p> Tag",
+        "answer_4" : "<audio> Tag",
+        "right_answer" : "<a> Tag"
+    }
+]
